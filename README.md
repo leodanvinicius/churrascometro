@@ -37,6 +37,6 @@
 ### Observacoes
 
 ##### O calculo e feito por pessoa, adulto e crianca nao consomem a mesma quantidade e nem as mesmas coisas.
-Por exemplo, as criancas nao podem ingerir cerveja, no entando o calculo nao se aplica a elas nesse quesito.
+##### Por exemplo, as criancas nao podem ingerir cerveja, no entando o calculo nao se aplica a elas nesse quesito.
 
 
