@@ -9,6 +9,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
+  <hr>
   
 ## Como usar
 
@@ -18,8 +19,9 @@
 * Clicar em calcular
 
 ![image](https://user-images.githubusercontent.com/82521665/133529458-0a10d2f9-d253-4b79-836d-829a7303fd69.png)
+<hr>
 
-## Logo apos sera feito o calculo de acordo com a quantidade de pessoas e o tempo de duração que o sistema fara um calculo aproximado da quantidade de cada item que sera necessario
+## Logo apos sera feito o calculo(individual) de acordo com a quantidade de pessoas e o tempo de duração que o sistema mostra aproximadamente a quantidade de cada item que sera necessario
 
 * Carne
 * Linguica 
@@ -29,5 +31,12 @@
 
 
 ![image](https://user-images.githubusercontent.com/82521665/133529372-dd55abfa-cd46-4c2e-bacb-547f08e7b7d8.png)
+
+<hr>
+
+### Observacoes
+
+##### O calculo e feito por pessoa, adulto e crianca nao consomem a mesma quantidade e nem as mesmas coisas.
+Por exemplo, as criancas nao podem ingerir cerveja, no entando o calculo nao se aplica a elas nesse quesito.
 
 
